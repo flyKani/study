@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.apress.isf.groovy.test.MyDocumentsGroovyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-07-31T09:32:28" hostname="ip-10-50-111-240.ap-northeast-2.compute.internal" time="0.036">
+  <properties/>
+  <testcase name="testFindByType" classname="com.apress.isf.groovy.test.MyDocumentsGroovyTest" time="0.033"/>
+  <testcase name="testListAll" classname="com.apress.isf.groovy.test.MyDocumentsGroovyTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

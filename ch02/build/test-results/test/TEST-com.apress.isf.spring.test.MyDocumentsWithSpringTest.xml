@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.apress.isf.spring.test.MyDocumentsWithSpringTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-07-31T09:32:27" hostname="ip-10-50-111-240.ap-northeast-2.compute.internal" time="0.259">
+  <properties/>
+  <testcase name="testWithSpringFindByType" classname="com.apress.isf.spring.test.MyDocumentsWithSpringTest" time="0.235"/>
+  <testcase name="testWithSpringListAll" classname="com.apress.isf.spring.test.MyDocumentsWithSpringTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[7월 31, 2017 6:32:27 오후 org.springframework.context.support.ClassPathXmlApplicationContext prepareRefresh
+정보: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6167e3d6: startup date [Mon Jul 31 18:32:27 KST 2017]; root of context hierarchy
+7월 31, 2017 6:32:27 오후 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+정보: Loading XML bean definitions from class path resource [META-INF/spring/mydocuments-context.xml]
+7월 31, 2017 6:32:27 오후 org.springframework.context.support.ClassPathXmlApplicationContext prepareRefresh
+정보: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5cb835b3: startup date [Mon Jul 31 18:32:27 KST 2017]; root of context hierarchy
+7월 31, 2017 6:32:27 오후 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+정보: Loading XML bean definitions from class path resource [META-INF/spring/mydocuments-context.xml]
+]]></system-err>
+</testsuite>
